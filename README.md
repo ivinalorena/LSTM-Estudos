@@ -19,7 +19,7 @@ Este repositório tem como finalidade o estudo e a implementação de Redes Neur
 ##  Estrutura do Repositório
 ```
 /
-├── lstm_model.py        # Código principal da rede LSTM
+├── exemploairlanes.py        # Código principal da rede LSTM
 ├── README.md            # Documentação do repositório
 ├── airline-passengers.csv # Dataset utilizado para os testes
 ```

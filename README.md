@@ -16,25 +16,6 @@ Este repositório tem como finalidade o estudo e a implementação de Redes Neur
 - Matplotlib
 - Scikit-learn
 
-##  Estrutura do Repositório
-```
-/
-├── exemploairlanes.py        # Código principal da rede LSTM
-├── README.md            # Documentação do repositório
-├── airline-passengers.csv # Dataset utilizado para os testes
-```
-
-## Como Executar o Projeto
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
-   ```
-2. Execute o código:
-   ```bash
-   python lstm_model.py
-   ```
-
 
 
 Este repositório é destinado apenas para fins educacionais e de pesquisa.
